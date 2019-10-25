@@ -88,13 +88,6 @@ class UniversalAudioManager: NSObject, AVAudioRecorderDelegate {
         }
     }
     
-    
-    
-    
-    
-    
-    
-    
     func startRecording(recordingName:String) {
         let date = Date()
         filename = "\(recordingName) - \(date.description).m4a"
