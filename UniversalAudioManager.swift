@@ -1,6 +1,5 @@
 //
 //  UniversalAudioManager.swift
-//  Automotive Sound Analyzer
 //
 //  Created by Ernie Lail on 10/24/19.
 //  Copyright © 2019 Development. All rights reserved.
